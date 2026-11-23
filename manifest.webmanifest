@@ -1,6 +1,6 @@
 {
-  "name": "Corporate Cyber Heist",
-  "short_name": "Cyber Heist",
+  "name": "Heist-Show",
+  "short_name": "Heist-Show",
   "description": "Partyspiel für 2 bis 6 Spieler",
   "lang": "de",
   "start_url": "./",
